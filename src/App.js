@@ -46,7 +46,7 @@ function Result({ correct }) {
       </h2>
       <a href="/">
         <button>Попробовать снова</button>
-      </a> -m 
+      </a>
     </div>
   );
 }
