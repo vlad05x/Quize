@@ -44,7 +44,7 @@ function Result({ correct }) {
       <h2>
         Вы отгадали {correct} ответов из {questions.length}
       </h2>
-      <a href="/Quize">
+      <a href="/Quize/">
         <button>Попробовать снова</button>
       </a>
     </div>
