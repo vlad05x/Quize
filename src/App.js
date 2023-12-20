@@ -42,7 +42,7 @@ function Result({ correct }) {
         alt="Result Icon"
       />
       <h2>
-        Вы отгадали {correct} ответов из {questions.length}
+        Вы отгадали {correct} ответоффф из {questions.length}
       </h2>
       <a href="/Quize">
         <button>Попробовать снова</button>
